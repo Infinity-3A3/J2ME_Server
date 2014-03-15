@@ -1,6 +1,6 @@
 <?php
 /*
- * Author: Rafael Rocha - www.rafaelrocha.net - info@rafaelrocha.net
+ * Author: Raed
  * 
  * Create Date: 15-03-2014
  * 
